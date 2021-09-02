@@ -10,5 +10,5 @@ Add two containers to it: `input` and `output`
 Upload to `input` `iris.csv` from https://github.com/Azure-Samples/batch-adf-pipeline-tutorial/blob/master/iris.csv
 
 Copy `.env.example` to `.env`
-and enter your access key for the storage account to .env 
-(Storage account -> Access Keys -> Show Keys -> Key1 -> Key)
+and enter your Connection String for the storage account to .env 
+(Storage account -> Access Keys -> Show Keys -> Key1 -> Connection String)
