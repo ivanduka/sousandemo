@@ -1,9 +1,9 @@
 Clone the repository in VSCode
 
 Open the console and run the following commands:
-`python -m venv env1` # creating a new clean environment
-`.\env1\Scripts\activate` # activating the environment's Python
-`pip install -r requirements.txt` # installing the requirements for the project
+- `python -m venv env1` # creating a new clean environment
+- `.\env1\Scripts\activate` # activating the environment's Python
+- `pip install -r requirements.txt` # installing the requirements for the project
 
 Create a storage account in Azure
 Add two containers to it: `input` and `output`
